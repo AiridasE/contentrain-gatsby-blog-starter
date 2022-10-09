@@ -7,6 +7,8 @@ categories: []
 description: "Hello, world! This is a demo post for `gatsby-theme-blog`."
 tags: []
 date: "2022-04-13 12:00"
+updatedAt: 1665294351072
+
 ---
 Hello, world! This is a demo post for `gatsby-theme-blog`.
 
